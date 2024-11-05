@@ -1,0 +1,9 @@
+
+
+Enter Your Location : Chandigarh
+
+Weather Stats for - Chandigarh
+Current Temperature:  28.05 deg C
+Current Weather : clear sky
+Current Humidity : 34%
+Current Wind Speed : 0.85kmph
